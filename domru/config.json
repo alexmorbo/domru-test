@@ -9,6 +9,9 @@
 	"arch": ["amd64", "armv7"],
 	"boot": "auto",
 	"schema": false,
+	"map": [
+		"share:rw",
+         ],
 	"ports": {
 		"80/tcp": 10080
 	},
