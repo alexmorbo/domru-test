@@ -12,7 +12,7 @@
 	"map": [
 		"share:rw",
 		"config:rw"
-         ],
+	],
 	"ports": {
 		"80/tcp": 10080
 	},
