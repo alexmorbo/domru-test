@@ -1,6 +1,6 @@
 {
 	"name": "domru",
-	"version": "0.2.2",
+	"version": "0.2.3",
 	"slug": "domru",
 	"description": "Domru Integration",
 	"url": "https://github.com/alexmorbo/domru-test",
@@ -9,6 +9,7 @@
 	"arch": ["amd64", "armv7"],
 	"boot": "auto",
 	"schema": false,
+	"hassio_api": true,
 	"map": [
 		"share:rw",
 		"config:rw"
